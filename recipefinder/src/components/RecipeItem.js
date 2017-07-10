@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
+import {connect} from 'react-redux';
+import {favoriteRecipe} from '../actions';
 
 class RecipeItem extends Component{
   render(){
