@@ -20,7 +20,7 @@ function fetchMemesJson(){
 /*returns a function */
 export function fetchMemes(){
   return function(dispatch){
-    return fetchMemesJson().
+    return fetchMemesJson()
       .then(json => dispatch(receiveMemes(json)))
   }
 }
