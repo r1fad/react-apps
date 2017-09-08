@@ -1,0 +1,22 @@
+{
+  "name": "react-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r1fad/react-apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r1fad/react-apps/issues"
+  },
+  "homepage": "https://github.com/r1fad/react-apps#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
